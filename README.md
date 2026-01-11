@@ -23,8 +23,7 @@ O dashboard foi projetado para responder a perguntas críticas sobre a força de
 
 Este é um vislumbre das informações que podem ser extraídas:
 
-![Captura de tela do Dashboard de HR Analytics focado em Engajamento e Satisfação](images/hr_analytics_dashboard_preview.png)
-
+![Preview do Dashboard de RH Analytics](images/hr_analytics_dashboard_preview.png.png)
 * **[Se você tiver um link público, insira-o aqui: Link para o Dashboard Online]**
 
 ---
