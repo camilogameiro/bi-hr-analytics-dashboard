@@ -15,8 +15,8 @@ O dashboard foi projetado para responder a perguntas críticas sobre a força de
 
 ## ⚙️ Tecnologias e Habilidades
 
-* **Ferramenta BI:** *[Insira a ferramenta que você usou: Power BI, Tableau, Looker Studio, etc.]*
-* **Fonte de Dados:** *[Descreva a fonte dos dados: Data Warehouse SQL, Arquivos CSV, Google Sheets, etc.]*
+* **Ferramenta BI:** Power BI
+* **Fonte de Dados:** Arquivos CSV*
 * **Habilidades:** Modelagem de Dados, Criação de Medidas Personalizadas (DAX/Cálculos), Design de Dashboards, Storytelling com Dados.
 
 ## 🖼️ Preview do Dashboard
